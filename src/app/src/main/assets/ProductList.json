@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Bella Ciao T-Shirt",
+    "price": "100",
+    "offer": null,
+    "category": "Men's T-Shirts",
+    "imageUrl": "https://tinyurl.com/y4f5e96j"
+  },
+  {
+    "id": 2,
+    "name": "Red Check Shirt",
+    "price": 500,
+    "offer": 30,
+    "category": "Men's Shirts",
+    "imageUrl": "https://tinyurl.com/y2szwrys"
+  },
+  {
+    "id": 3,
+    "name": "Save Our Home T-Shirt",
+    "price": 100,
+    "offer": null,
+    "category": "Men's T-Shirts",
+    "imageUrl": "https://tinyurl.com/y4bfj5b7"
+  },
+  {
+    "id": 4,
+    "name": "Blue Check Shirt",
+    "price": 500,
+    "offer": 20,
+    "category": "Men's Shirts",
+    "imageUrl": "https://tinyurl.com/y44marw5"
+  },
+  {
+    "id": 5,
+    "name": "HRX T-Shirt",
+    "price": 100,
+    "offer": 50,
+    "category": "Men's T-Shirts",
+    "imageUrl": "https://tinyurl.com/y4urobx8"
+  },
+  {
+    "id": 6,
+    "name": "Cotton Mull Kurti",
+    "price": 300,
+    "offer": null,
+    "category": "Women Clothing",
+    "imageUrl": "https://tinyurl.com/y2yhf95n"
+  },
+  {
+    "id": 7,
+    "name": "Floral Peach Frock",
+    "price": 600,
+    "offer": 10,
+    "category": "Women Clothing",
+    "imageUrl": "https://tinyurl.com/y5n467o3"
+  },
+  {
+    "id": 8,
+    "name": "Silk Saree",
+    "price": 5000,
+    "offer": 20,
+    "category": "Women Clothing",
+    "imageUrl": "https://tinyurl.com/yxupqdll"
+  }
+]

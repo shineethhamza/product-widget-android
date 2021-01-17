@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="discount_for_you">Discount for You</string>
+    <string name="view_all"><![CDATA[View All >]]></string>
+</resources>
